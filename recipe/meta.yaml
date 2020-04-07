@@ -12,7 +12,7 @@ source:
     - asm3_py3_diff.patch
 
 build:
-  number: 7
+  number: 8
   script: python -m pip install --no-deps --ignore-installed .
   noarch: python
 
